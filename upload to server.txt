@@ -1,0 +1,15 @@
+Try this.
+
+       1. Open  IIS manager.           
+       2. List item
+       3. Select your website then properties.
+       4.  Go to Virtual directory
+       5. Click on Configuration
+       6. On Application Configuration 
+        Application extension - add .mvc extension and path              
+          C:\windows\microsoft.net\framework\v4.xxxxx\aspnet_isapi.dll
+       7. On the wildcard application maps insert same path as above
+
+       8. **UNCHECK** verify that file exists.(if you check it won't run)
+
+Phil Haack has a good article: http://haacked.com/archive/2008/11/26/asp.net-mvc-on-iis-6-walkthrough.aspx

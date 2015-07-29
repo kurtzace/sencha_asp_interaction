@@ -1,0 +1,62 @@
+﻿{
+    "text": "Settings",
+    "items": [{
+        "text": "Accounts",
+        "items": [
+                    {
+                        "text": "Kurtzabay",
+                        "leaf": true
+                    },
+                    {
+                        "text": "eBay",
+                        "leaf": true
+                    }
+                ]
+            },
+            {
+                "text": "Sizes",
+                "items": [
+                    {
+                        "text": "Images",
+                        "leaf": true
+                    },
+                    {
+                        "text": "Videos",
+                        "leaf": true
+                    },
+					{
+						"text": "Fonts",
+						"items": [
+								{
+									"text": "Heading 1",
+									"leaf": true
+								},
+								{
+									"text": "Heading 2",
+									"leaf": true
+								},
+								{
+									"text": "Description",
+									"leaf": true
+								},
+								{
+									"text": "Text",
+									"leaf": true
+								}
+						]
+					}
+					
+                ]
+            },
+			{
+					"text": "Location",
+					"items": [
+								{
+									"text": "Set Location",
+									"leaf": true
+								}
+								
+							]
+            }
+			]
+ }
